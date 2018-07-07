@@ -1,0 +1,16 @@
+############################################
+########### PROJECT INFORMATIONS ###########
+############################################
+
+Project Name		:	
+Version				:	
+Author				:	
+Created Date		:	[	/	/201 ]
+1.Revision Date		:	[	/	/201 ]
+1.Revision by		:	
+2.Revision Date		:	[	/	/201 ]
+2.Revision by		:	
+................	:
+HMI & Editor		:	
+PLC & Editor		:	
+Explanation			:	[	]
